@@ -1,0 +1,9 @@
+{"_default":
+{"1":
+{"pattern_name": "Form_00", "user_date": "date", "user_phone": "phone", "user_email": "email", "user_text": "text"},
+  "2":
+  {"pattern_name": "Form_01", "user_work_email": "email", "user_work_phone": "phone", "user_work_text": "text"},
+  "3":
+  {"pattern_name": "Form_02", "user_work_date": "date", "user_work_email": "email", "user_work_phone": "phone", "user_work_text": "text"}
+}
+}
